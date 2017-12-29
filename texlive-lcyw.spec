@@ -1,12 +1,6 @@
-# revision 15878
-# category Package
-# catalog-ctan /macros/latex/contrib/lcyw
-# catalog-date 2009-12-16 19:51:33 +0100
-# catalog-license lppl1.3
-# catalog-version v1.1
 Name:		texlive-lcyw
-Version:	v1.1
-Release:	10
+Version:	1.1
+Release:	1
 Summary:	Make Classic Cyrillic CM fonts accessible in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lcyw
@@ -58,17 +52,3 @@ use with LaTeX.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> v1.1-2
-+ Revision: 753212
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> v1.1-1
-+ Revision: 718839
-- texlive-lcyw
-- texlive-lcyw
-- texlive-lcyw
-- texlive-lcyw
-
