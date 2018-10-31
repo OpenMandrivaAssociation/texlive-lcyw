@@ -1,6 +1,6 @@
 Name:		texlive-lcyw
 Version:	1.1
-Release:	1
+Release:	2
 Summary:	Make Classic Cyrillic CM fonts accessible in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lcyw
