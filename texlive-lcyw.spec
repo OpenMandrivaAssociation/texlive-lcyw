@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Make Classic Cyrillic CM fonts accessible in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lcyw
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lcyw
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lcyw.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lcyw.doc.r%{version}.tar.xz
